@@ -15,6 +15,5 @@
       "type": "MIT",
       "url": "https://raw.github.com/jashkenas/underscore/master/LICENSE"
     }
-  ],
-  "files"         : ["underscore.js", "LICENSE"]
+  ]
 }
